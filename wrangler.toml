@@ -1,3 +1,6 @@
 name = "terbium-bare"
 main = "dist/sw.js"
 compatibility_date = "2026-03-14"
+kv_namespaces = [
+  { binding = "BARE", id = "d8a25c3cccd9462cadca45df903796ba" }
+]
